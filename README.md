@@ -1,2 +1,2 @@
 # hello-world
-hi
+Ok. Let's try it.
